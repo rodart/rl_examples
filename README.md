@@ -1,4 +1,4 @@
-# Tile coding
+Demo for Q-learning and DQN
 
-This is a thin wrapper for Richard Sutton's tile coding software:
-https://webdocs.cs.ualberta.ca/~sutton/tiles2.html
+# install requirement libs
+pip install -r requirements.txt
