@@ -1,3 +1,8 @@
+"""
+Solving CartPole using dqn model
+CartPole environment description - https://github.com/openai/gym/wiki/CartPole-v0
+"""
+
 import random
 from collections import deque
 

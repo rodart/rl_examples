@@ -1,3 +1,8 @@
+"""
+Solving MountainCar using Q-learning algorithm
+MountainCar environment description - https://github.com/openai/gym/wiki/MountainCar-v0
+"""
+
 import numpy as np
 import gym
 

@@ -1,5 +1,5 @@
 """
-solving pendulum using actor-critic model
+Solving pendulum using actor-critic model
 Pendulum environment description - https://github.com/openai/gym/wiki/Pendulum-v0
 """
 
