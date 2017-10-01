@@ -181,9 +181,7 @@ def main():
     actor_critic = ActorCritic(env, sess)
 
     cur_state = env.reset()
-    step = 0
     while True:
-        step += 1
         env.render()
 
         cur_state = cur_state.reshape((1, env.observation_space.shape[0]))
@@ -197,7 +195,6 @@ def main():
         actor_critic.train()
 
         cur_state = new_state
-        print step
 
 
 if __name__ == "__main__":
