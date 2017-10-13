@@ -1,5 +1,6 @@
 """
 Solving pendulum using actor-critic model
+Details: https://medium.com/towards-data-science/reinforcement-learning-w-keras-openai-actor-critic-models-f084612cfd69
 Pendulum environment description - https://github.com/openai/gym/wiki/Pendulum-v0
 """
 
